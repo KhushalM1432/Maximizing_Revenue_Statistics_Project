@@ -1,4 +1,4 @@
-# Maximizing_Revenue_Statistics_Project
+# Data_Science_Project
 # Taxi Cab Revenue Maximization: Payment Type Analysis
 - 📊 Data-driven insights
 - 🚀 Revenue optimization

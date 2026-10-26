@@ -1,4 +1,4 @@
-## Maximizing_Revenue_Statistics_Project | Data_Science & Business_Analytics_Project | Python
+## Maximizing Revenue Statistics Project | Data Science & Business Analytics Project | Python
 
 ## Taxi Cab Revenue Maximization 
 
